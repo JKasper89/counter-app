@@ -34,5 +34,5 @@ class Counter extends Component {
     return count === 0 ? "Zero" : count;
   }
 }
-//test
+
 export default Counter;
